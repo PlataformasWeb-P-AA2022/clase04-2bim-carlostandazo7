@@ -71,6 +71,11 @@ label {
 }
 
 footer{
-  background: #5E5E5E;
-  color: #FFF;
+  background: #003F72;
+  color: #FFFFFF;
 }
+
+section{
+    background: #F4AB14;
+}
+
